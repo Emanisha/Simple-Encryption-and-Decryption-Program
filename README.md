@@ -69,4 +69,3 @@ Contributions to the project are welcome. If you encounter any issues or have su
 
 ---
 
-Save the content above in a file named "README.md" in the same directory as the C program. This will provide users with information about the program and how to use it.
