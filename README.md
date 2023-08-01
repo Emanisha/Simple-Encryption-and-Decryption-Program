@@ -5,7 +5,6 @@ Below is the content for a "README.md" file to provide information about the sim
 
 # Simple Encryption and Decryption Program
 
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Table of Contents
 
@@ -67,9 +66,6 @@ The encryption algorithm used in this program is a basic substitution cipher. Du
 
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
